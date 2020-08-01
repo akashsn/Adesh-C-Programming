@@ -12,3 +12,4 @@ int main()
     printf("the value of a=%d & b=%d",a,b);
     
 }
+// changes
